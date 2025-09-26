@@ -6,6 +6,10 @@ light
 
 Delete
 انقر على قسم أدناه لتعديل المحتويات
+## Demo
+
+inter this link to view my website
+[Demo](https://basmalaalabasi72-droid.github.io/lec7g4/)
 
 
 
@@ -72,9 +76,6 @@ Tech
 Running Tests
 محرر
 
-## Demo
-
-Insert gif or link to demo
 
 
 عرض مسبق
